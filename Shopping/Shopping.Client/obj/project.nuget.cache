@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcaOG6vOdWKHyNGxvIs6qbLmIZIqHEYXhy9jU+I1iSXv75kRY5BbchF6BbMmIZUeWqyV7V9F16A1fC2bm+69Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikki\\Downloads\\run-devops-main\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikki\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\vikki\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
